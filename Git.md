@@ -7,3 +7,4 @@
 ## Power ups
 
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
+- [git flight rules](https://github.com/k88hudson/git-flight-rules)
